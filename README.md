@@ -1,0 +1,2 @@
+# personality
+Merge my knowledge
